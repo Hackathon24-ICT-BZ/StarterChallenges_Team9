@@ -11,4 +11,4 @@ Repo für Team9 in "Starter Challenges"
 - Zuständigkeit: Kevin Berger
 - E-Mail: self-extending-backend@kevinberger.ch
 - Mobile: - 
-- Code: https://github.com/Hackathon24-ICT-BZ/StarterChallenges_Team9/edit/main/README.md
+- Code: [https://github.com/Hackathon24-ICT-BZ/StarterChallenges_Team9/edit/main/README.md](https://github.com/Teddy55Codes/SelfExtendingBackend)
